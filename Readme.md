@@ -37,25 +37,23 @@ You can access the dashboard at `/dashboard` to view historical PR reviews.
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/yourusername/AI_Powered_Code_Review_Bot.git
 cd AI_Powered_Code_Review_Bot
 
 ### 2. Create a virtual environment
 
-```bash
 python3 -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
 
 ### 3. Install Dependencies
 
-```bash
+
 pip install -r requirements.txt
 
 ### 4. Create .env file
 Create a .env file in the root directory with the following content:
 
-```bash
 GITHUB_API_KEY=your_github_personal_access_token
 OPENAI_API_KEY=your_openai_api_key
 ```
