@@ -115,13 +115,13 @@ Your GitHub token must have **repo** and **workflow** scopes.
 
 ## 🛣️ Roadmap
 
-* - [x]PR code review with OpenAI
-* - [x]Auto-labeling and merge
-* - [x]Dashboard for historical reviews
-* - [ ]Multi-file analysis context-aware
-* - [ ]Custom review rules (security, style, etc.)
-* - [ ]Web-based dashboard with filters/search
-* - [ ]Slack/Discord notification integration
+- [x]PR code review with OpenAI
+- [x]Auto-labeling and merge
+- [x]Dashboard for historical reviews
+- [ ]Multi-file analysis context-aware
+- [ ]Custom review rules (security, style, etc.)
+- [ ]Web-based dashboard with filters/search
+- [ ]Slack/Discord notification integration
 
 ---
 
