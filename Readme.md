@@ -25,14 +25,6 @@ An intelligent GitHub-integrated bot that automatically reviews pull requests us
 
 ---
 
-## 📸 Dashboard Preview
-
-You can access the dashboard at `/dashboard` to view historical PR reviews.
-
-*(Insert a screenshot here once available)*
-
----
-
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the Repository
